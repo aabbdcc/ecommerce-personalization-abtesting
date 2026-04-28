@@ -1,0 +1,4 @@
+# Large data files
+data/interim/*.csv
+data/processed/*.csv
+data/raw/*.csv
