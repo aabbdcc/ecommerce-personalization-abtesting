@@ -2,3 +2,5 @@
 data/interim/*.csv
 data/processed/*.csv
 data/raw/*.csv
+outputs/tables/product_cooccurrence.csv
+outputs/tables/ab_test_simulation_results.csv
